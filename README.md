@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente com mobile
 - 🌱 Estudando Flutter
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 
 
