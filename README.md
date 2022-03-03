@@ -1,4 +1,4 @@
-### Olá, prazer Carlos 👋
+### Olá, prazer em conhecer 👋
 
 - 🔭 Trabalho atualmente com mobile
 - 🌱 Estaundo Flutter
