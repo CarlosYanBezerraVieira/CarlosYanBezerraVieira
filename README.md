@@ -1,6 +1,6 @@
 # 👋 Olá, sou Carlos!
 
-Desenvolvedor de softwar com foco em desenvolvimento mobile, backend e inteligência artificial.
+Desenvolvedor de software com foco em desenvolvimento mobile, backend e inteligência artificial.
 
 ### 🛠 Tecnologias e Habilidades
 
